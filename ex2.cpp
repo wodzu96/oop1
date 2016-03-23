@@ -27,4 +27,5 @@ int main(int argc, char const *argv[])
  	Human janek = Human("Janek", 123);
  	Human anna = Human("Anna", 123);
  	Human zosia = Human("Zosia", 123);
+ 	Dog burek = Dog();
  } 
